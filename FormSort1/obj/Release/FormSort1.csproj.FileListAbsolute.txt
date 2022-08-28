@@ -1,0 +1,10 @@
+F:\Проекты студии\FormSort1\FormSort1\bin\Release\FormSort1.exe.config
+F:\Проекты студии\FormSort1\FormSort1\bin\Release\FormSort1.exe
+F:\Проекты студии\FormSort1\FormSort1\bin\Release\FormSort1.pdb
+F:\Проекты студии\FormSort1\FormSort1\obj\Release\FormSort1.FormSort.resources
+F:\Проекты студии\FormSort1\FormSort1\obj\Release\FormSort1.Properties.Resources.resources
+F:\Проекты студии\FormSort1\FormSort1\obj\Release\FormSort1.csproj.GenerateResource.cache
+F:\Проекты студии\FormSort1\FormSort1\obj\Release\FormSort1.csproj.CoreCompileInputs.cache
+F:\Проекты студии\FormSort1\FormSort1\obj\Release\FormSort1.exe
+F:\Проекты студии\FormSort1\FormSort1\obj\Release\FormSort1.pdb
+F:\Проекты студии\FormSort1\FormSort1\obj\Release\FormSort1.csprojAssemblyReference.cache
